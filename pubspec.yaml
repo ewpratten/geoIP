@@ -1,1 +1,9 @@
+name: "geoip"
+version: 1.0.1
+description: "A wrapper of ip-thingy.com for geolocation via IP addresses in Dart"
+author: "Evan Pratten <ewpratten@gmail.com>"
+homepage: https://github.com/Ewpratten/geoIP
 
+
+dependencies:
+  http: ">=0.11.3+16 <0.12.0"

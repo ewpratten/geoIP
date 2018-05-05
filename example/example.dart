@@ -1,9 +1,3 @@
-# geoIP
-## A wrapper of ip-thingy.com for geolocation via IP addresses in Dart
-By: Evan Pratten
-
-# How to use
-```Dart
 import 'package:geoip/geoip.dart' as geoip;
 
 main() async {
@@ -29,4 +23,3 @@ main() async {
 
   print(geoip.zipcode(Data)); // Print zipcode
 }
-```
